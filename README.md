@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/UNN-VMK-Software/mp2-lab1-set.svg)][travis]
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][gitter]
 
-<!-- TODO
+<!-- TODOOO
   -
 -->
 
